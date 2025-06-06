@@ -26,7 +26,7 @@ I hold a Law degree with specializations in Business Law, Contract Law, and Civi
 
 ---
 
-### 📈 Projects
+### 📈 Favorite Projects
 Some of the projects I’ve developed include:  
 - 📊 Marketing Campaign Performance Analysis  
 - 📊 Financial Control and Operational Dashboards  
@@ -44,9 +44,12 @@ These projects are available in PDF format or presentations upon request.
 ---
 
 ### 🎯 Current Goals
-- 📜 Completing the **Microsoft Power BI Data Analyst Professional Certificate (Coursera)**  
-- 📚 Improving skills in Business Analysis, SQL, and Data Visualization  
-- 🚀 Helping organizations turn data into actionable insights for better decision-making  
+- 📚 Deepening my knowledge in **Business Intelligence** and **Data Analysis**, with a focus on transforming data into strategic insights.  
+- 🛠️ Enhancing my skills in **SQL**, **Power BI**, and **Data Storytelling**, while continuing to explore **Python** for automation and deeper analysis.  
+- 🌍 Building a professional path that integrates my analytical skills with my legal background to support smarter, data-informed business decisions.  
+- 🔄 Collaborating on meaningful projects that generate real business value and help organizations unlock the power of their data.
+
+---
 
 ### 🌎 Languages
 - 🇧🇷 Portuguese (Native)  
