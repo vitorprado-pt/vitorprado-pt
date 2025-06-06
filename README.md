@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vitorcprado-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vitorcprado/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black&style=flat-square)](https://powerbi.microsoft.com/)
 [![SQL](https://img.shields.io/badge/SQL-Data%20Querying-4479A1?logo=postgresql&logoColor=white&style=flat-square)]()
-[![Coursera](https://img.shields.io/badge/Coursera-Student-0056D2?logo=coursera&logoColor=white&style=flat-square)](https://www.coursera.org/)
 [![Languages](https://img.shields.io/badge/Languages-PT%20%7C%20EN-green?style=flat-square)]()
 
 ---
