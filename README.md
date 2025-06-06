@@ -46,7 +46,6 @@ These projects are available in PDF format or presentations upon request.
 
 ### 🎯 Current Goals
 - 📚 Deepening my knowledge in **Business Intelligence** and **Data Analysis**, with a focus on transforming data into strategic insights.  
-- 🧠 Completing the **Microsoft Power BI Data Analyst Professional Certificate** on Coursera to solidify my technical expertise and certification portfolio.  
 - 🛠️ Enhancing my skills in **SQL**, **Power BI**, and **Data Storytelling**, while continuing to explore **Python** for automation and deeper analysis.  
 - 🌍 Building a professional path that integrates my analytical skills with my legal background to support smarter, data-informed business decisions.  
 - 🔄 Collaborating on meaningful projects that generate real business value and help organizations unlock the power of their data.
